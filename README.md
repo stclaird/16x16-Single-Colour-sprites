@@ -1,5 +1,5 @@
-# TMS9918-sprites
-A selection of simple single colour 16x16 Sprites compatible with TMS9918 Video Processor.
+# 16 x 16 Pixel Single Colour Sprites
+A selection of simple single colour 16x16 Sprites compatible with very early graphics chips like the Texas Instrumewnts TMS9918 Video Processor.
 
 ## Summary
 The Texas Instruments TMS9918 is one of the earliest if not the earliest video chip that could display ["hardware" sprites](https://en.wikipedia.org/wiki/Sprite_(computer_graphics)), in addition to the more common text and general grid based bitmap graphics.  
