@@ -11,4 +11,5 @@ The sprites were not large and colourful, in fact the largest a sprite can be is
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/evil-knight/preview.png?raw=true)
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/spaceman/preview.png?raw=true)
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/zombie/preview.png?raw=true)
+![image](https://github.com/stclaird/TMS9918-sprites/blob/main/tank/preview.png?raw=true)
 
