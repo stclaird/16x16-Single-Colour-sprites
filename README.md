@@ -14,4 +14,5 @@ The sprites were not large and colourful, in fact the largest a sprite can be is
 *****
 
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/tank/preview.png?raw=true)
+![image](https://github.com/stclaird/TMS9918-sprites/blob/main/minotaur/preview.png?raw=true)
 
