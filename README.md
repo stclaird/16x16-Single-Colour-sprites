@@ -4,7 +4,7 @@ A selection of simple single colour 16x16 Sprites.  This very limited sprite siz
 ## Summary
 The Texas Instruments TMS9918 is one of the earliest if not the earliest video chip that could display ["hardware" sprites](https://en.wikipedia.org/wiki/Sprite_(computer_graphics)), in addition to the more common text only display and general grid based bitmap graphics.  This chip was found in machines such as the TI-99/4(a), the MSX-1 as well as some early Sega Consoles.
 
-The sprites were not large and colourful, in fact the largest a sprite can be is 16x16 pixels with a single colour and transparency.  This repo contains examples of graphics which can be used in projects that use this chip.  
+The sprites were not large and colourful, in fact the largest a sprite can be is 16x16 pixels with a single colour and transparency.  This repo contains examples of graphics which can be used in projects that use this chip.
 
 ## Examples
 
@@ -17,3 +17,4 @@ The sprites were not large and colourful, in fact the largest a sprite can be is
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/minotaur/preview.png?raw=true)
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/bunny/preview.png?raw=true)
 
+![image](https://github.com/stclaird/TMS9918-sprites/blob/main/knight/preview.png?raw=true)
