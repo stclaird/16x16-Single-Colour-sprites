@@ -20,3 +20,5 @@ The sprites were not large and colourful, in fact the largest a sprite can be is
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/knight/preview.png?raw=true)
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/little-man/preview.gif?raw=true)
 ![image](https://github.com/stclaird/TMS9918-sprites/blob/main/chopper/chopper.gif?raw=true)
+*****
+![image](https://github.com/stclaird/TMS9918-sprites/blob/main/mino-car/mino-car.gif?raw=true)
